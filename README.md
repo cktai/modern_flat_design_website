@@ -12,3 +12,5 @@ Logo font: Pacifico Regular
 Body font: open sans
 
 Title font: Lato
+
+![](cap.png)
